@@ -84,7 +84,7 @@ nav{
 }
 .nav-name{
     font-size: 30px;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--text-color-third);
 }
 .nav-logo span{
